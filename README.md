@@ -8,6 +8,8 @@ A few lines of code in ArrayFire can replace dozens of lines of parallel computi
 
 This repository contains the test data used for testing ArrayFire
 
+`matrixmarket/` holds third-party data from the SuiteSparse Matrix Collection, licensed under CC BY 4.0; see [its README](matrixmarket/README.md).
+
 ## Format
 The files are in the following format:
 
